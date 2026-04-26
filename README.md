@@ -8,7 +8,8 @@ I have also gained valuable experience working on projects (collaborating with a
 
 There was a big emphasis on code quality and testing. This experience has helped me develop a strong understanding of the software development lifecycle and the importance of delivering high quality code and integrating testing from day one.
 
-<p>
+<br />
+
 - 🔭 I’m currently working on my personal project to create an Electronic Valve Database, with React, Express, SQLite3 and React Native.
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me:
@@ -16,22 +17,8 @@ There was a big emphasis on code quality and testing. This experience has helped
   - [GitHub](https://github.com/gaston-senac)
   - [Email](mailto:gaston_senac@hotmail.com)
 - 🎓 You can read my [CV here](CV%20Gaston%20Senac%20(D%204%202026).pdf)
-</p>
 
-<!--
-**gaston-senac/gaston-senac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
 
 ## I code with
 
