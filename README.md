@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![alt text](icons/Bash-Dark.svg "bash logo")
 
 Bash
-<img src='https://raw.githubusercontent.com/gaston-senac/gaston-senac/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
+<img src='https://github.com/gaston-senac/gaston-senac/raw/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
 <img src='/public/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
