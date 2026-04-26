@@ -25,8 +25,11 @@ Here are some ideas to get you started:
 
 <div>
   <img src='./icons/Bash-Dark.svg' height="60" alt="bash logo" />
+  <img width="2" />
   <img src='./icons/JavaScript.svg' height="60" alt="javascript logo" />
+  <img width="2" />
   <img src='./icons/React-Dark.svg' height="60" alt="react logo" />
+  <img width="2" />
   <img src='./icons/ExpressJS-Dark.svg' height="60" alt="express logo" />
   <img width="2" />
   <img src='./icons/SQLite.svg' height="60" alt="sqlite logo" />
