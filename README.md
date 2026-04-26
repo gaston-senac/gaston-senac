@@ -56,9 +56,9 @@ Here are some ideas to get you started:
 <div>
   <img src='./icons/VSCode-Dark.svg' height="60" alt="vscode logo" />
   <img width="2" />
-  <img src='./icons/GitHub.svg' height="60" alt="github logo" />
+  <img src='./icons/GitHub-Light.svg' height="60" alt="github logo" />
   <img width="2" />
-  <img src='./icons/Postman-Dark.svg' height="60" alt="postman logo" />
+  <img src='./icons/Postman.svg' height="60" alt="postman logo" />
   <img width="2" />
   <img src='./icons/Docker.svg' height="60" alt="docker logo" />
   <img width="2" />
@@ -74,5 +74,5 @@ Here are some ideas to get you started:
   <img width="2" />
   <img src='./icons/PostgreSQL-Dark.svg' height="60" alt="postgresql logo" />
   <img width="2" />
-  <img src='./icons/Proxmox-Dark.svg' height="60" alt="proxmox logo" />
+  <img src='./icons/Proxmox-Light.svg' height="60" alt="proxmox logo" />
 </div>
