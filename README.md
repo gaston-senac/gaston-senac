@@ -24,27 +24,26 @@ Here are some ideas to get you started:
 - Bash, React, Express, SQL, Next.js, TypeScript, Tailwind CSS, Python, Docker, Debian, Linux, Git
 
 <div>
-<img src='./icons/Bash-Dark.svg' height="60" alt="bash logo" />
-<img width="2" />
-<img src='./icons/React-Dark.svg' height="60" alt="react logo" />
-<img width="2" />
-<img src='./icons/ExpressJS-Dark.svg' height="60" alt="express logo" />
-<img width="2" />
-<img src='./icons/SQLite.svg' height="60" alt="sqlite logo" />
-<img width="2" />
-<img src='./icons/NextJS-Dark.svg' height="60" alt="nextjs logo" />
-<img width="2" />
-<img src='./icons/TypeScript.svg' height="60" alt="typescript logo" />
-<img width="2" />
-<img src='./icons/TailwindCSS-Dark.svg' height="60" alt="tailwindcss logo" />
-<img width="2" />
-<img src='./icons/Python-Dark.svg' height="60" alt="python logo" />
-<img width="2" />
-<img src='./icons/Docker.svg' height="60" alt="docker logo" />
-<img width="2" />
-<img src='./icons/Debian-Dark.svg' height="60" alt="debian logo" />
-<img width="2" />
-<img src='./icons/Linux-Dark.svg' height="60" alt="linux logo" />
-<img width="2" />
-<img src='./icons/Git.svg' height="60" alt="git logo" />
+  <img src='./icons/Bash-Dark.svg' height="60" alt="bash logo" />
+  <img src='./icons/JavaScript.svg' height="60" alt="javascript logo" />
+  <img src='./icons/React-Dark.svg' height="60" alt="react logo" />
+  <img src='./icons/ExpressJS-Dark.svg' height="60" alt="express logo" />
+  <img width="2" />
+  <img src='./icons/SQLite.svg' height="60" alt="sqlite logo" />
+  <img width="2" />
+  <img src='./icons/NextJS-Dark.svg' height="60" alt="nextjs logo" />
+  <img width="2" />
+  <img src='./icons/TypeScript.svg' height="60" alt="typescript logo" />
+  <img width="2" />
+  <img src='./icons/TailwindCSS-Dark.svg' height="60" alt="tailwindcss logo" />
+  <img width="2" />
+  <img src='./icons/Python-Dark.svg' height="60" alt="python logo" />
+  <img width="2" />
+  <img src='./icons/Docker.svg' height="60" alt="docker logo" />
+  <img width="2" />
+  <img src='./icons/Debian-Dark.svg' height="60" alt="debian logo" />
+  <img width="2" />
+  <img src='./icons/Linux-Dark.svg' height="60" alt="linux logo" />
+  <img width="2" />
+  <img src='./icons/Git.svg' height="60" alt="git logo" />
 </div>
