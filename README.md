@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 Bash
 <img src='https://raw.githubusercontent.com/gaston-senac/gaston-senac/blob/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
-<img src='/public/Bash-Dark.svg' height="60" alt="bash logo" />
+<img src='https://github.com/gaston-senac/gaston-senac/raw/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
 <img src='/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
