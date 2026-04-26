@@ -24,9 +24,10 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![alt text](icons/Bash-Dark.svg "bash logo")
 ![alt text](https://raw.githubusercontent.com/gaston-senac/gaston-senac/refs/heads/main/icons/Bash-Dark.svg "bash logo")
+![alt text](<https://raw.githubusercontent.com/gaston-senac/gaston-senac/refs/heads/main/icons/Bash-Dark.svg> "bash logo" height="60")
 
 Bash
-<img src='https://github.com/gaston-senac/gaston-senac/blob/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
+<img src='https://raw.githubusercontent.com/gaston-senac/gaston-senac/blob/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
 <img src='/public/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
