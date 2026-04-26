@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
+<img src='/public/Bash-Dark.svg' height="60" alt="bash logo" />
+<img width="12" />
+<img src='/Bash-Dark.svg' height="60" alt="bash logo" />
+<img width="12" />
+<img src='/public/Docker-Dark.svg' height="60" alt="docker logo" />
+<img width="12" />
 <div>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" /> JavaScript
   <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" /> TypeScript
