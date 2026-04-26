@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <div>
   <img src='./icons/VSCode-Dark.svg' height="60" alt="vscode logo" />
   <img width="2" />
-  <img src='./icons/GitHub-Light.svg' height="60" alt="github logo" />
+  <img src='./icons/Github-Light.svg' height="60" alt="github logo" />
   <img width="2" />
   <img src='./icons/Postman.svg' height="60" alt="postman logo" />
   <img width="2" />
