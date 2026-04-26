@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <img width="12" />
 <img src='/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
+<img src='./icons/Bash-Dark.svg' height="60" alt="bash logo" />
+<img width="12" />
 <img src='/public/Docker-Dark.svg' height="60" alt="docker logo" />
 <img width="12" />
 <div>
