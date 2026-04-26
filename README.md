@@ -25,48 +25,26 @@ Here are some ideas to get you started:
 
 <div>
 <img src='./icons/Bash-Dark.svg' height="60" alt="bash logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/React-Dark.svg' height="60" alt="react logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/ExpressJS-Dark.svg' height="60" alt="express logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/SQLite.svg' height="60" alt="sqlite logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/NextJS-Dark.svg' height="60" alt="nextjs logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/TypeScript.svg' height="60" alt="typescript logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/TailwindCSS-Dark.svg' height="60" alt="tailwindcss logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/Python-Dark.svg' height="60" alt="python logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/Docker.svg' height="60" alt="docker logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/Debian-Dark.svg' height="60" alt="debian logo" />
-<img width="12" />
+<img width="10" />
 <img src='./icons/Linux-Dark.svg' height="60" alt="linux logo" />
-<img width="12" />
-<img src='./icons/Git-Dark.svg' height="60" alt="git logo" />
-</div>
-
-<div>
-  <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" /> JavaScript
-  <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" /> TypeScript
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+<img width="10" />
+<img src='./icons/Git.svg' height="60" alt="git logo" />
 </div>
