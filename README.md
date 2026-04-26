@@ -10,6 +10,7 @@ I have more than 22 years experience in IT as a System Engineer, including 3 yea
   - [LinkedIn](https://www.linkedin.com/in/gaston-senac/)
   - [GitHub](https://github.com/gaston-senac)
   - [Email](mailto:gaston_senac@hotmail.com)
+- 🎓 You can read my [CV here](CV%20Gaston%20Senac%20(D%204%202026).pdf)
 
 <!--
 **gaston-senac/gaston-senac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
