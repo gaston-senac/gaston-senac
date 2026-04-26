@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## I code with
 
-- Bash, React, Express, SQL, Next.js, TypeScript, Tailwind CSS, Python, Docker, Debian, Linux, Git
+- Bash, JavaScript, React, Express, SQL, Next.js, TypeScript, Tailwind CSS, Python, PowerShell, HTML, CSS
 
 <div>
   <img src='./icons/Bash-Dark.svg' height="60" alt="bash logo" />
@@ -42,6 +42,24 @@ Here are some ideas to get you started:
   <img width="2" />
   <img src='./icons/Python-Dark.svg' height="60" alt="python logo" />
   <img width="2" />
+  <img src='./icons/Powershell-Dark.svg' height="60" alt="powershell logo" />
+  <img width="2" />
+  <img src='./icons/HTML.svg' height="60" alt="html logo" />
+  <img width="2" />
+  <img src='./icons/CSS.svg' height="60" alt="css logo" />
+</div>
+
+## Technologies that I use
+
+- Visual Studio Code, GitHub, Postman, Docker, Debian, Linux, Git, Nginx, MySQL, PostgreSQL, Proxmox
+
+<div>
+  <img src='./icons/VSCode-Dark.svg' height="60" alt="vscode logo" />
+  <img width="2" />
+  <img src='./icons/GitHub.svg' height="60" alt="github logo" />
+  <img width="2" />
+  <img src='./icons/Postman-Dark.svg' height="60" alt="postman logo" />
+  <img width="2" />
   <img src='./icons/Docker.svg' height="60" alt="docker logo" />
   <img width="2" />
   <img src='./icons/Debian-Dark.svg' height="60" alt="debian logo" />
@@ -49,4 +67,12 @@ Here are some ideas to get you started:
   <img src='./icons/Linux-Dark.svg' height="60" alt="linux logo" />
   <img width="2" />
   <img src='./icons/Git.svg' height="60" alt="git logo" />
+  <img width="2" />
+  <img src='./icons/Nginx.svg' height="60" alt="nginx logo" />
+  <img width="2" />
+  <img src='./icons/MySQL-Dark.svg' height="60" alt="mysql logo" />
+  <img width="2" />
+  <img src='./icons/PostgreSQL-Dark.svg' height="60" alt="postgresql logo" />
+  <img width="2" />
+  <img src='./icons/Proxmox-Dark.svg' height="60" alt="proxmox logo" />
 </div>
