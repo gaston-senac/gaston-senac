@@ -2,8 +2,15 @@
 
 I'm a software engineer with Full Stack experience, currently focused on expanding my knowledge in database and backend development. I am based in Christchurch, New Zealand and open to both local and remote opportunities.
 
-I have more than 22 years experience in IT as a System Engineer, including 3 years as a Manager. Recently I have done a Level 6 Certificate in Applied Software Development from Dev Academy Aotearoa. This program provided me with a strong foundation in software development, covering both frontend and backend technologies. I've enjoyed the Human Skills module, which emphasised the importance of effective communication and collaboration, with a lot of practice on giving and receiving feedback, conflict resolution and retrospective analysis. I believe that these skills are crucial for success in any IT role. I have also gained valuable experience working on projects (collaborating with a team of 6 developers), doing pair programming and following Agile methodologies. There was a big emphasis on code quality and testing. This experience has helped me develop a strong understanding of the software development lifecycle and the importance of delivering high quality code and integrating testing from day one.
+I have more than 22 years experience in IT as a System Engineer, including 3 years as a Manager. Recently I have done a NZQA Level 6 Certificate in Applied Software Development from [Dev Academy Aotearoa](https://www.devacademy.co.nz/). This program provided me with a strong foundation in software development, covering both frontend and backend technologies. I've enjoyed the Human Skills module, which emphasised the importance of effective communication and collaboration, with a lot of practice on giving and receiving feedback, conflict resolution and retrospective analysis. I believe that these skills are crucial for success in any IT role. I have also gained valuable experience working on projects (collaborating with a team of 6 developers), doing pair programming and following Agile methodologies. There was a big emphasis on code quality and testing. This experience has helped me develop a strong understanding of the software development lifecycle and the importance of delivering high quality code and integrating testing from day one.
 
+- 🔭 I’m currently working on my personal project to create an Electronic Valve Database, with React, Express, SQLite3 and React Native.
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me:
+  - [LinkedIn](https://www.linkedin.com/in/gaston-senac/)
+  - [GitHub](https://github.com/gaston-senac)
+  - [Email](mailto:gaston_senac@hotmail.com)
+  
 <!--
 **gaston-senac/gaston-senac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
