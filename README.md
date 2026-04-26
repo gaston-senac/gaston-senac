@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <div>
-  <img src="https://skillicons.dev/icons?i=js"alt="javascript logo"  />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" alt="javascript logo" /> JavaScript
+  <img src="https://skillicons.dev/icons?i=ts" alt="typescript logo" /> TypeScript
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
