@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ![alt text](icons/Bash-Dark.svg "bash logo")
 
-<img src='./Bash-Dark.svg' height="60" alt="bash logo" />
+Bash
+<img src='https://raw.githubusercontent.com/gaston-senac/gaston-senac/main/icons/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
 <img src='/public/Bash-Dark.svg' height="60" alt="bash logo" />
 <img width="12" />
