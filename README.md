@@ -52,7 +52,7 @@ There was a big emphasis on code quality and testing. This experience has helped
 
 ## Technologies that I use
 
-- Visual Studio Code, GitHub, Postman, Docker, Debian, Linux, Git, Nginx, MySQL, PostgreSQL, Proxmox
+- Visual Studio Code, GitHub, Postman, Docker, Debian, Linux, Git, Nginx, MySQL, PostgreSQL, Proxmox, Gemini and Claude CLI, Cline
 
 <div>
   <img src='./icons/VSCode-Dark.svg' height="60" alt="vscode logo" />
