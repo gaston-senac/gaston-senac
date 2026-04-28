@@ -16,7 +16,7 @@ There was a big emphasis on code quality and testing. This experience has helped
   - [LinkedIn](https://www.linkedin.com/in/gaston-senac/)
   - [GitHub](https://github.com/gaston-senac)
   - [Email](mailto:gaston_senac@hotmail.com)
-- 🎓 You can read my [CV here](CV Gaston Senac (SE 4 2026).pdf)
+- 🎓 You can read my [CV here](CV%20Gaston%20Senac%20(SE%204%202026).pdf)
 
 <br />
 
